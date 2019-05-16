@@ -1,1 +1,2 @@
 maveca> Moja prva vrstica.
+mavec-test> Njegova druga vrstica.
